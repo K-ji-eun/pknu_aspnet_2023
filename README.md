@@ -33,3 +33,6 @@ Bootstrap 앨범사이트 클로닝
 - ASP.NET MVC
 	- ASP.NET 기본
 	- ASP.NET 프로젝트
+
+ASP.NET Core MVC 게시판
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet03.gif" width="700">
