@@ -39,4 +39,5 @@ ASP.NET Core MVC 게시판
 
 ## 5일차
 - ASP.NET MVC
-	- 게시판 계
+	- 게시판 페이징 까지
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet04.gif" width="700">
