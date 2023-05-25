@@ -47,3 +47,18 @@ ASP.NET Core MVC 게시판
 	- 게시판 정리
 	- 계정관리(회원가입, 로그인)
 <img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet05.gif" width="700">
+
+## 7일차
+- ASP.NET MVC
+	- 게시판 정리(아이디 삭제, 변호표시)
+	- 권한관리
+
+## 8일차
+- ASP.NET MVC
+	- 부트스트랩 테마(SEO Dream) 적용
+
+- ASP.NET RestAPI
+- 개인포트폴리오
+	- 부트스트랩 테마(SEO Dream)
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet05.gif" width="700">
+
