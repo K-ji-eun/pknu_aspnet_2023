@@ -39,7 +39,8 @@ ASP.NET Core MVC 게시판
 
 ## 5일차
 - ASP.NET MVC
-	- 게시판 페이징 까지
+	- 게시판 페이징
+		- Trumbwyg 에디터
 <img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet04.gif" width="700">
 
 ## 6일차
@@ -50,9 +51,15 @@ ASP.NET Core MVC 게시판
 
 ## 7일차
 - ASP.NET MVC
-	- 게시판 정리(아이디 삭제, 변호표시)
-	- 권한관리
-
+	- 게시판 정리
+		- 아이디 삭제
+		- 게시판 번호
+	- 계정 및 권한관리
+		- 사용자별 권한할당
+		- 관리자, 사용자 분리
+		- 관리자 게시판글 모두 삭제가능
+		- 프로필 수정
+	
 ## 8일차
 - ASP.NET MVC
 	- 부트스트랩 테마(SEO Dream) 적용
