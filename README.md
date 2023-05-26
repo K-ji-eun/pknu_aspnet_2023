@@ -69,3 +69,17 @@ ASP.NET Core MVC 게시판
 	- 부트스트랩 테마(SEO Dream)
 <img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet05.gif" width="700">
 
+## 9일차
+- ASP.NET Core MVC
+	- SEO Dream 테마 완료
+- ASP.NET RestAPI
+	- RestAPI Server
+	- WPF client
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet06.gif" width="700">
+
+## 10일차
+- ASP.NET RestAPI
+	- RestAPI Server
+	- WPF client
+- 개인포트폴리오 웹
+	- 부트스트랩 테마 재적용
