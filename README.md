@@ -35,18 +35,23 @@ Bootstrap 앨범사이트 클로닝
 	- ASP.NET 프로젝트
 
 ASP.NET Core MVC 게시판
+
 <img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet03.png" width="700">
 
 ## 5일차
 - ASP.NET MVC
 	- 게시판 페이징
 		- Trumbwyg 에디터
+		
 <img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet04.gif" width="700">
 
 ## 6일차
 - ASP.NET MVC
 	- 게시판 정리
-	- 계정관리(회원가입, 로그인)
+	- 계정관리
+		- 회원가입
+		- 로그인
+		
 <img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet05.gif" width="700">
 
 ## 7일차
@@ -64,10 +69,7 @@ ASP.NET Core MVC 게시판
 - ASP.NET MVC
 	- 부트스트랩 테마(SEO Dream) 적용
 
-- ASP.NET RestAPI
-- 개인포트폴리오
-	- 부트스트랩 테마(SEO Dream)
-<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet05.gif" width="700">
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet0６.gif" width="700">
 
 ## 9일차
 - ASP.NET Core MVC
@@ -76,15 +78,36 @@ ASP.NET Core MVC 게시판
 		- 포트폴리오 동적관리 (이미지 업로드)
 		- IIS .net6.0 런타임 설치
 	- 다른 Bootstrap 테마 적용
-- ASP.NET RestAPI
-	- OpenAPI같은 서비스를 운영
-	- RestAPI Server
-	- WPF client
-<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet06.gif" width="700">
+
+seo Theme 완료
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet07.gif" width="700">
+
+다른 테마 적용
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet08.gif" width="700">
 
 ## 10일차
 - ASP.NET RestAPI
 	- RestAPI Server
-	- WPF client
+
+RestAPI Server
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/restapi01.png" width="700">
+
 - 개인포트폴리오 웹
 	- 부트스트랩 테마 재적용
+	
+	메인화면 템플릿 - Start Bootstrap / [Personal Theme](https://startbootstrap.com/theme/personal)
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet09.png" width="700">	
+
+관리자화면 템플릿 - Theme Wagon / [Sneat Theme](https://themewagon.com/themes/free-responsive-bootstrap-5-html5-admin-template-sneat/)
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet10.png" width="700">	
+
+	
+## 11일차
+- ASP.NET RestAPI
+	- RestAPI Server
+	- FrontEnd Server 작업
