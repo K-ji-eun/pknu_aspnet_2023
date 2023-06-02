@@ -3,12 +3,11 @@
 @{
     ViewData["Title"] = "Create";
 }
-
+<div style="padding:118px" class="mt-5">
 <h1>Create</h1>
-
 <h4>TempPortfolioModel</h4>
 <hr />
-<div class="row">
+<div class="<div style="padding:150px" class="mt-5">
     <div class="col-md-4">
         <form asp-action="Create" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
@@ -37,17 +36,21 @@
                 <input asp-for="PortfolioImage" class="form-control" type="file" accept=".png, .jpg, .jpeg" />
                 <span asp-validation-for="PortfolioImage" class="text-danger"></span>
             </div>
+            <br />
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Create" class="btn btn-warning" />
             </div>
         </form>
     </div>
 </div>
 
+
 <div>
     <a asp-action="Index">Back to List</a>
 </div>
 
+
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
+</div>
