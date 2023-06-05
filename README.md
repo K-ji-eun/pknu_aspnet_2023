@@ -112,7 +112,7 @@ RestAPI Server
 	- RestAPI Server 체크
 	- FrontEnd Server 작업
 	
-<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/포폴.gif" width="700">
+<img src="https://github.com/K-ji-eun/pknu_aspnet_2023/blob/main/images/%ED%8F%AC%ED%8F%B4.gif" width="700">
 
 ## 12일차
 - ASP.NET RestAPI
