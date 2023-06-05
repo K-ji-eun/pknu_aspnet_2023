@@ -1,7 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 
-namespace TodoApiServer.Models
+namespace TodoItemApp.Models
 {
     public class TodoItem
     {
@@ -10,9 +10,9 @@ namespace TodoApiServer.Models
 
         [Column(TypeName = "Varchar(100)")]
         public string? Title { get; set; }
+
         public string? TodoDate { get; set; }
         public int IsComplete { get; set; }
-
 
     }
 }

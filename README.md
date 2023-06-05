@@ -116,3 +116,12 @@ RestAPI Server
 - ASP.NET RestAPI
 	- RestAPI Server 수정
 	- FrontEnd Server 작업계속
+	
+	
+## 13일차
+- ASP.NET RestAPI
+	- WPF 앱 연동
+	
+RestAPI사용 WPF App 및 Web화면
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/restapi03.png" width="700">	
